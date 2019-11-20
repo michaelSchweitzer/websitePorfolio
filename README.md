@@ -1,2 +1,2 @@
-#This is the website for my portfolio. 
+#This is my unfinished website for my portfolio.
 As I type this, the website does not yet have a domain. 
