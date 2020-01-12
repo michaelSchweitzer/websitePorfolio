@@ -1,2 +1,1 @@
-#This is my unfinished website for my portfolio.
-As I type this, the website does not yet have a domain. 
+This website will feature all of my future personal and professional projects. More information will be added soon!
