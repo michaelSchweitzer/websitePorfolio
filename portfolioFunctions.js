@@ -1,7 +1,7 @@
 //To get icon
 var topIcon = document.getElementById("pageTop");
 
-//When user scrolls down 20px from the top of the page, the icon appears
+//When user scrolls down 25px from the top of the page, the icon appears
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
